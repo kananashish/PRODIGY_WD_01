@@ -64,4 +64,4 @@ Contributions are welcome! To contribute:
 
 
 ## Contact
-For questions or feedback, reach out via [GitHub Issues](https://github.com/your-username/your-repo-name/issues) or contact [ashishkananconnect@gmail.com].
+For questions or feedback, reach out via [GitHub Issues](https://github.com/your-username/your-repo-name/issues) or email [your-email@example.com].
