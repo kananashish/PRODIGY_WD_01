@@ -62,8 +62,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For questions or feedback, reach out via [GitHub Issues](https://github.com/your-username/your-repo-name/issues) or contact [your-email@example.com].
+For questions or feedback, reach out via [GitHub Issues](https://github.com/your-username/your-repo-name/issues) or contact [ashishkananconnect@gmail.com].
